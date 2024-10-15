@@ -1,4 +1,4 @@
-emp# Employee Attrition Prediction App: End-to-End ML Project
+# Employee Attrition Prediction App: End-to-End ML Project
 
 ## Project Overview
 This end-to-end machine learning project aims to predict employee attrition using Random forest classifier model based on HR data. We've developed a complete pipeline from data analysis to model deployment, culminating in a Gradio app for easy visualization and prediction.
