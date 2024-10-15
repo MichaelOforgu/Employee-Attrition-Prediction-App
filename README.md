@@ -59,6 +59,8 @@ A Gradio app was created to provide an interactive interface for predicting empl
 - Prediction: The trained Random Forest Classifier model is utilized to predict the likelihood of attrition.
 - Visualization: Results are displayed clearly, potentially including probability scores and interpretable insights.
 
+https://github.com/user-attachments/assets/90f562e9-15e3-4405-9ca1-6b699beb4bcb
+
 ## Future Improvements
 
 - Experiment with other machine learning algorithms for comparison.
